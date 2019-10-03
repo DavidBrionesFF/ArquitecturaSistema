@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\bin\Debug\ModeloVistaControlador.exe.config
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\bin\Debug\ModeloVistaControlador.exe
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\bin\Debug\ModeloVistaControlador.pdb
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.csprojAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.view.NotaView.resources
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.csproj.GenerateResource.cache
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.exe
+C:\Users\David\Documents\Visual Studio 2019\Projects\ModeloVistaControlador\ModeloVistaControlador\obj\Debug\ModeloVistaControlador.pdb
