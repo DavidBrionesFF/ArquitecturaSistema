@@ -10,5 +10,5 @@ En este sistema base explicamos como debe de estar la arquitectura de un sistema
 **Nota**: Si deseas contribuir al proyecto puedes mandar un correo a la david_briones@bytepl.com.
 
 #### Documentacion:
-Construyendo un CMS con Spring Boot
+Como diseñar un Sistema Correctamente
 [![Everything Is AWESOME](https://community.bytepl.com/wp-content/uploads/2019/10/ARQUITECTURA-DE-SOFTWARE.jpg)](https://community.bytepl.com/wp-content/uploads/2019/10/Patrones-de-disenio.mp4 "Arquitectura de Software")
